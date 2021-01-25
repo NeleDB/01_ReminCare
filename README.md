@@ -1,5 +1,7 @@
 # ReminCare
 
+Repository for a project ReminCare
+
 ## Build Setup
 
 ```bash
